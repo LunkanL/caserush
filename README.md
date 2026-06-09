@@ -216,7 +216,7 @@ caserush/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/caserush.git
+git clone https://github.com/LunkanL/caserush.git
 cd caserush
 ```
 
@@ -460,5 +460,5 @@ Created by Jesper Lundqvist.
 ## Repository
 
 ```text
-https://github.com/YOUR_USERNAME/caserush
+https://github.com/LunkanL/caserush
 ```
